@@ -7,6 +7,7 @@ jaune = Web
 vert = java
 bleu = BdeD
 rouge = urgent
+cyan = Tout partout
 
 DoD:
 test unitaire
