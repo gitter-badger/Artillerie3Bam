@@ -2,12 +2,17 @@
 Site D'un groupe dans le cadre du cour de genie logiciel
 Tableau kaban: https://kanbanflow.com/board/b140b492e2a25ee1e1e5ce3c335a6fac
 
-CodeCouleur->
+CodeCouleur:
+
 jaune = Web
+
 vert = java
+
 bleu = BdeD
+
 rouge = urgent
-cyan = Tout partout
+
+cyan = Obligatoire dans toute les couche
 
 DoD:
 test unitaire
