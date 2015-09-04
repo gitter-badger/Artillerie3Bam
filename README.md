@@ -1,4 +1,6 @@
 # Artillerie3Bam
+
+[![Join the chat at https://gitter.im/Dhouzy/Artillerie3Bam](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Dhouzy/Artillerie3Bam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Site D'un groupe dans le cadre du cour de genie logiciel
 Tableau kaban: https://kanbanflow.com/board/b140b492e2a25ee1e1e5ce3c335a6fac
 
